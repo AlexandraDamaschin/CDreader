@@ -1,0 +1,27 @@
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\bin\Debug\DVDCD.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\bin\Debug\DVDCD.exe
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\bin\Debug\DVDCD.pdb
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.FormDVDCD.resources
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.exe
+c:\users\asus\documents\visual studio 2015\Projects\DVDCD\DVDCD\obj\Debug\DVDCD.pdb
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.exe.config
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.exe
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.pdb
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.exe
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.pdb
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.FormDVDCD.resources
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.Properties.Resources.resources
+C:\Users\Asus\Desktop\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.csproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.exe.config
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.exe
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.pdb
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.exe
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\bin\Debug\DVDCD.pdb
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.csprojResolveAssemblyReference.cache
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.FormDVDCD.resources
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.Properties.Resources.resources
+C:\Users\Asus\AppData\Local\Microsoft\Windows\Burn\Burn\Proiect OOP\DVDCD\DVDCD\obj\Debug\DVDCD.csproj.GenerateResource.Cache
